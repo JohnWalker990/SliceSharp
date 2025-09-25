@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SliceSharp.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
